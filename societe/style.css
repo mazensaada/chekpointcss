@@ -1,0 +1,52 @@
+body{margin: 0%;
+    padding: 0;
+    background-color:blueviolet;
+}
+ textarea{
+   border: 75;
+     color:brown
+ }
+
+table{border :5px dashed red;}
+
+p{
+    background-size: 22;
+    text-align: center;
+    color: tomato;
+  
+    background-color: chartreuse;
+   
+   
+}
+
+input{
+border: 15;
+
+}
+
+img{
+    padding-left: 75;
+    padding-top: 100;
+    padding-bottom: 80;
+    padding-right: 100;
+    margin-right: 80;
+}
+.test{
+    width: 260px;
+    height: 250px;
+    background-color: darkolivegreen;
+    display: flex;
+    align-items: space-between;
+    justify-content: space-between;
+}
+.tt{
+    width: 80px;
+    height: 60px;
+    margin: 5x;
+    padding: 15;
+    background-color: aliceblue;
+}
+.tt p{
+    color:black ;
+    background-color: transparent;
+}
